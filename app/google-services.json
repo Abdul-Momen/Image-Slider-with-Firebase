@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "156765795635",
+    "firebase_url": "https://medicine-delivery-10dec-default-rtdb.firebaseio.com",
+    "project_id": "medicine-delivery-10dec",
+    "storage_bucket": "medicine-delivery-10dec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156765795635:android:438954983ac6dc3d593a46",
+        "android_client_info": {
+          "package_name": "com.bengal.softs.heavendrinkscorner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156765795635-8cb7rhr74rnh44e2rbfjdc4snvlt70s9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBse3yY9jqmInkU17GFLEWR1uRULndhXRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156765795635-8cb7rhr74rnh44e2rbfjdc4snvlt70s9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156765795635:android:3e7278eaf2047cfc593a46",
+        "android_client_info": {
+          "package_name": "com.example.sliderapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156765795635-8cb7rhr74rnh44e2rbfjdc4snvlt70s9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBse3yY9jqmInkU17GFLEWR1uRULndhXRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156765795635-8cb7rhr74rnh44e2rbfjdc4snvlt70s9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
